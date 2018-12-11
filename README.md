@@ -45,15 +45,15 @@ Vue2.5 + Vuex + Vue Router + axios + Es6 + stylus + flex + Webpack + ESlint + gi
 
 ## 项目演示
 
-<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/start/start.png" width="285" height="460"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/home/home.png" width="285" height="460"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/home/yugao.png" width="285" height="460"/>
+<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/start/start.png" width="285" height="460" style="margin-right: 2px;border:1px solid #ccc" /> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/home/home.png" width="285" height="460" style="margin-right: 2px;border:1px solid #ccc"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/home/yugao.png" width="285" height="460" style="border:1px solid #ccc" />
 
-<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/cinema/cinema.png" width="285" height="460"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/my/my.png" width="285" height="460"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/city/city.png" width="285" height="460"/>
+<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/cinema/cinema.png" width="285" height="460" style="margin-right: 2px;border:1px solid #ccc" /> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/my/my.png" width="285" height="460" style="margin-right: 2px;border:1px solid #ccc" /> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/city/city.png" width="285" height="460" style="border:1px solid #ccc />
 
 
 ## 说明
 
 看这个项目前能够用预备html,css,vue,es6,webpack的一些知识
 
-项目仅作为学习使用，代码里面的组件库可以下载作为自己项目使用，代码会放到github上面，大家可以点击右上角那只猫跳转到github下载源代码。
+项目仅作为学习使用，代码里面的组件库可以下载作为自己项目使用，代码会放到github上面，大家可以clone github下载源代码。
 
 大家都能坚持学习下去，有疑问的可以到github提issue，共同探讨学习。如果该项目对于您有所帮助，希望您可以点到github star 能支持一下 ^_^
