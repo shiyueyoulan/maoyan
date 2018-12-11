@@ -2,7 +2,7 @@
 
 该项目已经写了非常详细的文档，帮助刚学习vue能够一步一步操作。
 
-链接地址(https://github.com/cxp1539/vue-maoyan-web)
+链接地址(https://cxp1539.github.io/vue-maoyan-web/)
 
 ## 为什么想写这个项目？
 
@@ -14,10 +14,10 @@
 
 ## 如何使用
 ```bash
-	git clone https://github.com/cxp1539/vue-maoyan-web.git
-	cd vue-maoyan-web
-	npm install
-	npm run dev
+git clone https://github.com/cxp1539/vue-maoyan-web.git
+cd vue-maoyan-web
+npm install
+npm run dev
 ```
 
 ## 技术栈
@@ -45,18 +45,16 @@ Vue2.5 + Vuex + Vue Router + axios + Es6 + stylus + flex + Webpack + ESlint + gi
 
 ## 项目演示
 
-<img src="https://github.com/cxp1539/vue-maoyan-web/docs/_images/start/start.png" width="350" height="600"/> <img src="https://github.com/cxp1539/vue-maoyan-web/docs/_images/home/home.png" width="350" height="600"/>
+<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/start/start.png" width="300" height="500"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/home/home.png" width="300" height="500"/><img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/yugao/yugao.png" width="300" height="500"/>
 
-<img src="https://github.com/cxp1539/vue-maoyan-web/docs/_images/yugao/yugao.png" width="350" height="600"/> <img src="https://github.com/cxp1539/vue-maoyan-web/docs/_images/city/cinema.png" width="350" height="600"/>
+<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/city/cinema.png" width="300" height="500"/><img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/my/my.png" width="300" height="500"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/city/city.gif" width="300" height="500"/>
 
-<img src="https://github.com/cxp1539/vue-maoyan-web/docs/_images/my/my.png" width="350" height="600"/> <img src="https://github.com/cxp1539/vue-maoyan-web/docs/_images/city/city.gif" width="350" height="600"/>
-
-<img src="https://github.com/cxp1539/vue-maoyan-web/docs/_images/city/city.png" width="350" height="600"/>
+<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/city/city.png" width="300" height="500"/>
 
 
 ## 说明
 
-?>看这个项目前能够用预备html,css,vue,es6,webpack的一些知识
+看这个项目前能够用预备html,css,vue,es6,webpack的一些知识
 
 项目仅作为学习使用，代码里面的组件库可以下载作为自己项目使用，代码会放到github上面，大家可以点击右上角那只猫跳转到github下载源代码。
 
