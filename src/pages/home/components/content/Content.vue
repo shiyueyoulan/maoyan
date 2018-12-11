@@ -38,7 +38,7 @@
           </div>
           <div class="movie" v-for="coming of group.items" :key="coming.id">
             <div class="avatar">
-              <img v-lazy="movie.img" />
+              <img v-lazy="coming.img" />
               <span class="iconfont icon-shijue3dimax" v-if="coming.version">
               </span>
             </div>
