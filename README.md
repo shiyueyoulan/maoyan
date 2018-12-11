@@ -45,11 +45,9 @@ Vue2.5 + Vuex + Vue Router + axios + Es6 + stylus + flex + Webpack + ESlint + gi
 
 ## 项目演示
 
-<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/start/start.png" width="300" height="500"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/home/home.png" width="300" height="500"/><img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/yugao/yugao.png" width="300" height="500"/>
+<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/start/start.png" width="285" height="460"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/home/home.png" width="285" height="460"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/home/yugao.png" width="285" height="460"/>
 
-<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/city/cinema.png" width="300" height="500"/><img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/my/my.png" width="300" height="500"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/city/city.gif" width="300" height="500"/>
-
-<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/city/city.png" width="300" height="500"/>
+<img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/cinema/cinema.png" width="285" height="460"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/my/my.png" width="285" height="460"/> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/city/city.png" width="285" height="460"/>
 
 
 ## 说明
