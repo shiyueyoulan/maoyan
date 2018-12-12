@@ -2,7 +2,7 @@
 
 该项目已经写了非常详细的文档，帮助刚学习vue能够一步一步操作。
 
-链接地址(https://cxp1539.github.io/vue-maoyan-web/)
+链接地址(https://cxp1539.github.io/vue-maoyan/)
 
 ## 为什么想写这个项目？
 
