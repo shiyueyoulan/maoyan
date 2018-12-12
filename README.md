@@ -41,8 +41,6 @@ Vue2.5 + Vuex + Vue Router + axios + Es6 + stylus + flex + Webpack + ESlint + gi
 - 异步组件
 - ......
 
-项目结束后也会跟大家分享一下深浅拷贝，Event Loop，MVVM 双向绑定,虚拟DOM，SSR，预渲染等相关的知识，详情可以看文档。
-
 ## 项目演示
 
 <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/start/start.png" width="285" height="460" /> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/home/home.png" width="285" height="460" /> <img src="https://github.com/cxp1539/vue-maoyan-web/blob/master/docs/_images/home/yugao.png" width="285" height="460" />
