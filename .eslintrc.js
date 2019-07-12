@@ -31,7 +31,7 @@ module.exports = {
     'no-mixed-spaces-and-tabs': 'off',
     'space-before-function-paren': 'off',
     'no-trailing-spaces': 'off',
-    "semi": 'off', // 允许分号
+    "semi": 'off', // 
     'space-infix-ops': 0 // [i+1]
     
   }
